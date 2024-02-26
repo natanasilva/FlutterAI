@@ -1,0 +1,15 @@
+xyz.natanet.meuapp.meuapp-jetified-window-1.0.0-beta04-0 C:\Users\Natan Aguiar\.gradle\caches\transforms-3\05afbc50c9d5c51966c5374f153362bd\transformed\jetified-window-1.0.0-beta04\res
+xyz.natanet.meuapp.meuapp-browser-1.5.0-1 C:\Users\Natan Aguiar\.gradle\caches\transforms-3\1d3a537298601669c603b7ed6e2bb9e8\transformed\browser-1.5.0\res
+xyz.natanet.meuapp.meuapp-jetified-annotation-experimental-1.3.0-2 C:\Users\Natan Aguiar\.gradle\caches\transforms-3\5af77f42e4a53a3fe98fcce20b8e5328\transformed\jetified-annotation-experimental-1.3.0\res
+xyz.natanet.meuapp.meuapp-jetified-window-java-1.0.0-beta04-3 C:\Users\Natan Aguiar\.gradle\caches\transforms-3\a2d5f98bb763a24d25b760f2ecad7a7e\transformed\jetified-window-java-1.0.0-beta04\res
+xyz.natanet.meuapp.meuapp-lifecycle-runtime-2.3.1-4 C:\Users\Natan Aguiar\.gradle\caches\transforms-3\b1359353a3944f78cf8931b283da8633\transformed\lifecycle-runtime-2.3.1\res
+xyz.natanet.meuapp.meuapp-core-1.10.1-5 C:\Users\Natan Aguiar\.gradle\caches\transforms-3\d5144e28d418a986092b0dfc02ac7d3f\transformed\core-1.10.1\res
+xyz.natanet.meuapp.meuapp-debug-6 D:\AplicativosFlutter\meuapp\android\app\src\debug\res
+xyz.natanet.meuapp.meuapp-main-7 D:\AplicativosFlutter\meuapp\android\app\src\main\res
+xyz.natanet.meuapp.meuapp-pngs-8 D:\AplicativosFlutter\meuapp\build\app\generated\res\pngs\debug
+xyz.natanet.meuapp.meuapp-resValues-9 D:\AplicativosFlutter\meuapp\build\app\generated\res\resValues\debug
+xyz.natanet.meuapp.meuapp-rs-10 D:\AplicativosFlutter\meuapp\build\app\generated\res\rs\debug
+xyz.natanet.meuapp.meuapp-mergeDebugResources-11 D:\AplicativosFlutter\meuapp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+xyz.natanet.meuapp.meuapp-mergeDebugResources-12 D:\AplicativosFlutter\meuapp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+xyz.natanet.meuapp.meuapp-merged_res-13 D:\AplicativosFlutter\meuapp\build\app\intermediates\merged_res\debug
+xyz.natanet.meuapp.meuapp-packaged_res-14 D:\AplicativosFlutter\meuapp\build\url_launcher_android\intermediates\packaged_res\debug
